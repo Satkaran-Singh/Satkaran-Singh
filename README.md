@@ -97,9 +97,8 @@ Six-week training programme | Scored 91% in the final NSQF examination.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satkaran-Singh&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satkaran-Singh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Satkaran-Singh&layout=compact&theme=tokyonight)
 
 ---
 
